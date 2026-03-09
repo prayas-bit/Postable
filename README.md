@@ -14,9 +14,9 @@
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![AWS](https://img.shields.io/badge/AWS-integrated-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://postable-aws-prototype.vercel.app)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://postable-aws-prototype-zeta.vercel.app)
 
-[🚀 Live Demo](https://postable-aws-prototype.vercel.app) · [🐛 Report Bug](https://github.com/prayas-bit/postable-aws-prototype/issues) · [✨ Request Feature](https://github.com/prayas-bit/postable-aws-prototype/issues)
+[🚀 Live Demo](https://postable-aws-prototype-zeta.vercel.app/)) · [🐛 Report Bug](https://github.com/prayas-bit/postable-aws-prototype/issues) · [✨ Request Feature](https://github.com/prayas-bit/postable-aws-prototype/issues)
 
 </div>
 
